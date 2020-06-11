@@ -1,0 +1,119 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+
+}
+.icon-block .material-icons {
+	font-size: inherit;
+
+}
+
+.container {
+
+	max-width:100%;
+}
+
+body {
+	background-image: url("../texture.png");
+}
+
+.eurobet {
+	max-width: 100%;
+}
+
+.sisal {
+
+	max-width: 50%;
+	margin-left: 7vw;
+}
+
+.bwin {
+
+	max-width: 50%;
+	margin-left:7vw;
+}
+.carta {
+
+	float:left;
+}
+
+#row1{
+
+	background-color: white;
+}
+
+#row2 {
+
+	background-color: #F9F9F9;
+}
+
+
+
+.paym {
+
+	width:15%;
+	
+}
+
+#row3 {
+
+	margin-left:3vw;
+}
+
+#download-button {
+
+	margin:6vw 2vw 3vw;
+	width:90%;
+	background-color: #00BB00;
+}
+#download-button:hover {
+
+	background-color: #FCE500;
+	color:black;
+}
+
+b {
+
+	font-size: 30px;
+}
+
+h1  {
+
+	font-size:6.5vw;
+}
+li {
+
+	font-size: 20px;
+}
+
+.footer1{
+	background-color: #F9F9F9;
+	text-align: center;
+	line-height: 2;
+	font-size: 20px;
+	padding:3vw 0;
+}
+.footer2 {
+	background-color: #333333;
+	margin:-2vw 0;
+	padding:2vw 2vw;
+	display:flex;
+	flex-wrap: nowrap;
+	color:white;
+}
+.ff {
+	width:80%;
+	margin:2vw;
+}
+.fe {
+	width:40%;
+	font-size:15px;
+}
+
